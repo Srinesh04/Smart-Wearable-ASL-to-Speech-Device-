@@ -152,7 +152,7 @@ Each image is labelled according to its corresponding gesture, allowing the mode
 
 ![Visualization of the wearable prototype](images/Prototype.png)
 
-*Figure: Privacy-preserving, AI-generated representation of the developed wearable prototype, illustrating the camera module mounted on the user's clothing and its USB connection to a laptop.*
+*Figure: Representation of the developed wearable prototype, illustrating the camera module mounted on the user's clothing and its USB connection to a laptop.*
 
 ## Real-Time Demonstration
 

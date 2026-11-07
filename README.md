@@ -150,7 +150,7 @@ Each image is labelled according to its corresponding gesture, allowing the mode
 - Hardware components connected to enable real-time operation.
 - Portable design for everyday use.
 
-![AI-generated visualization of the wearable prototype](images/Prototype.png)
+![Visualization of the wearable prototype](images/Prototype.png)
 
 *Figure: Privacy-preserving, AI-generated representation of the developed wearable prototype, illustrating the camera module mounted on the user's clothing and its USB connection to a laptop.*
 
